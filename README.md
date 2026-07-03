@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <div align="center">
 
-# Hi there, I'm Syeda 👋
+# Hi 👋, I'm Syeda Alia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Innovative+Tech+Enthusiast;Artificial+Intelligence+%7C+Machine+Learning+%7C+Cybersecurity;Building+Intelligent+Solutions;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Innovative+Tech+Enthusiast;Artificial+Intelligence+%7C+Machine+Learning+%7C+Cybersecurity;Building+Intelligent+Solutions;Turning+Ideas+into+Real-World+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -12,48 +10,75 @@
 
 ## 💫 About Me
 
-I am an **Innovative Tech Enthusiast** passionate about designing intelligent solutions that solve real-world problems through **Artificial Intelligence, Machine Learning, and Cybersecurity**.
+I'm an **Innovative Tech Enthusiast** passionate about designing intelligent systems that solve real-world problems through **Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-I enjoy transforming ideas into practical applications, exploring emerging technologies, and continuously improving my technical skills through hands-on projects and problem solving.
+I enjoy transforming ideas into practical applications, exploring emerging technologies, and continuously improving my technical skills through hands-on development.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
-### Artificial Intelligence & Machine Learning
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- Scikit-Learn
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
+<p>
 
-### AI Development
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-- Google Gemini API
-- FastAPI
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-### Cybersecurity
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-- Kali Linux
-- Nmap
-- Wireshark
-- Metasploit
-- Nessus
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### ⚡ Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" />
+</p>
+
+---
+
+### 🔐 Cybersecurity
+
+<p>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -77,43 +102,40 @@ I enjoy transforming ideas into practical applications, exploring emerging techn
 
 ---
 
-## 🏆 Core Interests
+# 🚀 Core Interests
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 🔐 Cybersecurity
-- ⚙️ AI Automation
+- 🤝 Open Source
 - 💡 Intelligent Systems
-- 🚀 Problem Solving
+- 🚀 Innovation & Problem Solving
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 My Professional Profiles
 
-<p>
+<p align="left">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/syeda-alia-a74b0731b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_KAGGLE">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/>
+<a href="https://www.kaggle.com/aliasamiasyeda">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="YOUR_TRYHACKME">
-<img src="https://cdn.simpleicons.org/tryhackme/white" width="48"/>
+
+<a href="mailto:syedaaliasamia@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-📧 **YOUR_EMAIL**
-syedaaliasamia@gmail.com
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Turning ideas into intelligent solutions through technology."*
+### ⭐ *"Building intelligent solutions through AI, Machine Learning & Cybersecurity."*
 
 </div>
