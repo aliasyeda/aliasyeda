@@ -94,9 +94,7 @@ I enjoy transforming ideas into practical applications, exploring emerging techn
 
 </p>
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliasyeda&theme=github-dark&hide_border=true"/>
 
 </p>
 
